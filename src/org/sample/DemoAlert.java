@@ -12,6 +12,7 @@ public class DemoAlert {
 		
 		driver.get("http://demo.automationtesting.in/Alerts.html");
 		driver.manage().window().maximize();
+		System.out.println("giri");
 		
 	
 		
